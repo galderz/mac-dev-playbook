@@ -24,8 +24,6 @@ homebrew_installed_packages:
 #  - gettext
 #  - gifsicle
   - bash
-  - emacs-plus
-  - homebrew/emacs/magit
   - git
   - gpg
   - haskell-stack
@@ -52,7 +50,6 @@ homebrew_installed_packages:
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
-  - d12frosted/emacs-plus
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -69,7 +66,6 @@ homebrew_cask_apps:
   - iterm2
   - skype
   - tunnelblick
-  - virtualbox
   - vlc
   - xld
 
